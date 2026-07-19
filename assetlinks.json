@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tizazu810.edir",
+      "sha256_cert_fingerprints": [
+        "PWABUILDER_ከ_ZIP_ውስጥ_ያለውን_assetlinks.json_ይዘት_በዚህ_ይተኩ"
+      ]
+    }
+  }
+]
